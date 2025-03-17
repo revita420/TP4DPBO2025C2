@@ -7,19 +7,19 @@ Program ini merupakan aplikasi manajemen data mahasiswa dengan GUI (Graphical Us
 
 **1.Class Mahasiswa**: 
 
--**Tujuan**: Merepresentasikan data setiap mahasiswa
+- **Tujuan**: Merepresentasikan data setiap mahasiswa
 
--**Atribut**:
+- **Atribut**:
   - `nim` : String untuk menyimpan NIM mahasiswa
   - `nama` : String untuk menyimpan nama mahasiswa
   - `jenisKelamin` : String untuk menyimpan jenis kelamin mahasiswa
   - `fakultas` : String untuk menyimpan fakultas mahasiswa
 
--**Konstruktor**:
+- **Konstruktor**:
   -Konstruktor dengan 3 parameter(nim, nama, jenisKelamin) dengan default fakultas "FPMIPA"
   -KOnstruktor dengan 4 parameter(nim, nama, jenisKelamin,fakultas)
 
--**Getter dan Setter**: Untuk mengakses dan memodifikasi atribut
+- **Getter dan Setter**: Untuk mengakses dan memodifikasi atribut
 
 
 **2. Class Menu**:
