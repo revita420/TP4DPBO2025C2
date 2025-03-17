@@ -90,3 +90,16 @@ Program ini merupakan aplikasi manajemen data mahasiswa dengan GUI (Graphical Us
 - Tombol "Update" kembali menjadi "Add"
 - Tombol "Delete" disembunyikan
 - Variable selectedIndex diatur ulang menjadi -1
+
+# Dokumentasi
+![WhatsApp Image 2025-03-17 at 22 13 25_06b24b3e](https://github.com/user-attachments/assets/ba952110-c859-407a-9826-0f2fa2f290c7)
+![WhatsApp Image 2025-03-17 at 22 13 25_b9a2af1e](https://github.com/user-attachments/assets/49734e00-ff99-4d1d-89a6-568f70eacdee)
+![WhatsApp Image 2025-03-17 at 22 13 25_515ff133](https://github.com/user-attachments/assets/02099cbc-df53-4d8c-8339-332a7be3fd63)
+![WhatsApp Image 2025-03-17 at 22 13 26_a3329db6](https://github.com/user-attachments/assets/a76aa81b-2d12-474c-9f6e-aef624cfbf91)
+![WhatsApp Image 2025-03-17 at 22 13 26_0e35b5c1](https://github.com/user-attachments/assets/ef6b5c38-2931-4a84-8030-09ab6fd80596)
+![WhatsApp Image 2025-03-17 at 22 13 27_8473c94b](https://github.com/user-attachments/assets/d25c8bd3-b25d-473b-92dc-d4e467bb7cad)
+![WhatsApp Image 2025-03-17 at 22 13 27_74903773](https://github.com/user-attachments/assets/ae6b8dcb-2147-4559-97a9-b32937e21838)
+![WhatsApp Image 2025-03-17 at 22 13 28_f177a882](https://github.com/user-attachments/assets/40d34268-979e-4a1c-b535-89cc46c2ed48)
+
+
+
